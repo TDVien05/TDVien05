@@ -55,11 +55,6 @@ I'm a passionate software developer who enjoys building reliable applications an
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TDVien05&show_icons=false&hide_border=true&bg_color=F4FBF6&title_color=5E9C7E&text_color=2F5D50" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDVien05&layout=compact&hide_border=true&bg_color=F4FBF6&title_color=5E9C7E&text_color=2F5D50" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=TDVien05&hide_border=true&background=F4FBF6&ring=7FB69E&fire=7FB69E&currStreakNum=2F5D50&sideNums=2F5D50&currStreakLabel=5E9C7E&sideLabels=5E9C7E&dates=7FB69E" alt="GitHub streak" />
 </p>
 
